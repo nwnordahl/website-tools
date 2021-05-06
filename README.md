@@ -56,6 +56,10 @@ A collection of different resources that can come in handy when making a website
 
   Open course full-stack curriculum.
 
+- [Interneting Is Hard](https://internetingishard.com)
+
+  Friendly web development tutorials for complete beginners.
+
 - [Mem.dev](https://mem.dev)
 
   For retaining information.
@@ -125,3 +129,23 @@ A collection of different resources that can come in handy when making a website
 - [Stackoverflow](https://stackoverflow.com)
 
   Ask and find answers in programming.
+
+- [Coolors](https://coolors.co)
+
+  Find new color palettes, or generate your own.
+
+- [Boxshadows](https://boxshadows.com)
+
+  Graphical user interface for making CSS box shadows, or choose between a range of presets.
+
+- [Flexboxsheet](https://flexboxsheet.com)
+
+  CSS flexbox cheatsheet.
+
+- [Grid](https://grid.malven.co)
+
+  CSS grid cheatsheet.
+
+- [Makeareadme](https://makeareadme.com)
+
+  Nice guide on how to make a good README.
